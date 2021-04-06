@@ -1,0 +1,80 @@
+(Unknown author.)
+Sequence A004736 was added to the OEIS.
+Sequence A051731 was added to the OEIS.
+Sequence A002262 was added to the OEIS.
+Sequence A039755 was added to the OEIS.
+Sequence A048594 was added to the OEIS.
+Sequence A047874 was added to the OEIS.
+Sequence A051601 was added to the OEIS.
+Sequence A051683 was added to the OEIS.
+Sequence A051597 was added to the OEIS.
+Sequence A019575 was added to the OEIS.
+Sequence A019576 was added to the OEIS.
+Sequence A045975 was added to the OEIS.
+Sequence A051666 was added to the OEIS.
+Sequence A030111 was added to the OEIS.
+Sequence A051599 was added to the OEIS.
+Sequence A051631 was added to the OEIS.
+Sequence A039756 was added to the OEIS.
+Sequence A039760 was added to the OEIS.
+Sequence A004053 was added to the OEIS.
+Sequence A011274 was added to the OEIS.
+Sequence A051632 was added to the OEIS.
+Sequence A056857 was added to the OEIS in August 2000.
+Sequence A140998 was added to the OEIS in July 2008.
+Sequence A071920 was added to the OEIS in June 2002.
+Sequence A053200 was added to the OEIS in December 1999.
+Sequence A057211 was added to the OEIS in September 2000.
+Sequence A114327 was added to the OEIS in February 2006.
+Sequence A070216 was added to the OEIS in May 2002.
+Sequence A037126 was added to the OEIS in June 1998.
+Sequence A083487 was added to the OEIS in June 2003.
+Sequence A051778 was added to the OEIS in December 1999.
+Sequence A064861 was added to the OEIS in October 2001.
+Sequence A065305 was added to the OEIS in October 2001.
+Sequence A066032 was added to the OEIS in February 2002.
+Sequence A114292 was added to the OEIS in November 2005.
+Sequence A124644 was added to the OEIS in December 2006.
+Sequence A053201 was added to the OEIS in December 1999.
+Sequence A115068 was added to the OEIS in March 2006.
+Sequence A162298 was added to the OEIS in June 2009.
+Sequence A162299 was added to the OEIS in June 2009.
+Sequence A051777 was added to the OEIS in December 1999.
+Sequence A071922 was added to the OEIS in June 2002.
+Sequence A110440 was added to the OEIS in August 2005.
+Sequence A223549 was added to the OEIS in March 2013.
+Sequence A223550 was added to the OEIS in March 2013.
+Sequence A240236 was added to the OEIS in April 2014.
+Sequence A053202 was added to the OEIS in December 1999.
+Sequence A053203 was added to the OEIS in December 1999.
+Sequence A102473 was added to the OEIS in January 2005.
+Sequence A119437 was added to the OEIS in May 2006.
+Sequence A127330 was added to the OEIS in March 2007.
+Sequence A115723 was added to the OEIS in March 2006.
+Sequence A125605 was added to the OEIS in November 2006.
+Sequence A144944 was added to the OEIS in September 2008.
+Sequence A168396 was added to the OEIS in November 2009.
+Sequence A228154 was added to the OEIS in August 2013.
+Sequence A056858 was added to the OEIS in August 2000.
+Sequence A120057 was added to the OEIS in June 2006.
+Sequence A159323 was added to the OEIS in April 2009.
+Sequence A180562 was added to the OEIS in September 2010.
+Sequence A056861 was added to the OEIS in August 2000.
+Sequence A056862 was added to the OEIS in August 2000.
+Sequence A064482 was added to the OEIS in October 2001.
+Sequence A072285 was added to the OEIS in July 2002.
+Sequence A072286 was added to the OEIS in July 2002.
+Sequence A095890 was added to the OEIS in July 2004.
+Sequence A134979 was added to the OEIS in February 2008.
+Sequence A168140 was added to the OEIS in November 2009.
+Sequence A174497 was added to the OEIS in November 2010.
+Sequence A188792 was added to the OEIS in April 2011.
+Sequence A225749 was added to the OEIS in May 2013.
+Sequence A225750 was added to the OEIS in May 2013.
+Sequence A265652 was added to the OEIS in December 2015.
+Sequence A333248 was added to the OEIS in March 2020.
+Sequence A056859 was added to the OEIS in August 2000.
+Sequence A064484 was added to the OEIS in October 2001.
+Sequence A145917 was added to the OEIS in October 2008.
+Sequence A231642 was added to the OEIS in November 2013.
+Sequence A233472 was added to the OEIS in December 2013.
