@@ -46,7 +46,11 @@ class SearchScraper:
         self.write_to_file(str(i + 2) + " of " + str(page_count + 1))
         json = self.search_json(i + 1)
         sequences.update(self.sequences_on_page(json))
-        time.sleep(5) # Throttle requests so that the OEIS servers aren't hit too hard.
+        time.sleep(10) # Throttle requests so that the OEIS servers aren't hit too hard.
       return sequences
 
-SearchScraper("keyword:tabl link:Table,of").all_sequences()
+# Search #1 was (probably):
+#   link:rows,n keyword:tabl
+# Search #2:
+#   keyword:tabl link:Table,of -link:rows,n author:2017|author:2018|author:2019|author:2020
+SearchScraper("keyword:tabl link:Table,of -link:rows,n author:2017|author:2018|author:2019|author:2020").all_sequences()
