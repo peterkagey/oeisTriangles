@@ -8,5 +8,5 @@ class JSONAccountant:
 
   def get_todays_sequence(self):
     todays_index = (datetime.now() - datetime(2021,4,5)).days
-    [a_number, tweet_copy] = self.unseen_sequences[todays_index][0]
+    [a_number, tweet_copy] = self.unseen_sequences[todays_index]
     return (a_number, tweet_copy)
