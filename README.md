@@ -1,5 +1,15 @@
 # oeisTriangles
-Twitter bot @oeisTriangles
+Follow this Twitter bot [@oeisTriangles](https://twitter.com/oeisTriangles).
+
+![Sequence A258993](https://user-images.githubusercontent.com/10198714/114285278-e824ac00-9a0a-11eb-95f1-023cb5fb34ac.png)
+
+### Steps to make your own version of this Bot.
+Clone the repo, make a Twitter account, sign up for a developer account at https://developer.twitter.com/, add your API keys/secrets to the `secrets.py`.
+In order to prevent your secrets from being posted to Github, run the following command to ignore changes to that file:
+```
+git update-index --skip-worktree secrets.py
+```
+Now modify the source however you'd like. When you're ready to make sure things are running smoothly on Docker, run
 ```
 docker build -t oeis-tri .
 ```
