@@ -1,7 +1,7 @@
 # oeisTriangles
 Follow this Twitter bot [@oeisTriangles](https://twitter.com/oeisTriangles).
 
-![Sequence A258993](https://user-images.githubusercontent.com/10198714/114285278-e824ac00-9a0a-11eb-95f1-023cb5fb34ac.png)
+[![Sequence A258993](https://user-images.githubusercontent.com/10198714/114285278-e824ac00-9a0a-11eb-95f1-023cb5fb34ac.png)](https://twitter.com/oeisTriangles/status/1379628962754686979?s=20)
 
 ### Steps to make your own version of this Bot.
 Clone the repo, make a Twitter account, sign up for a developer account at https://developer.twitter.com/, add your API keys/secrets to the `secrets.py`.
