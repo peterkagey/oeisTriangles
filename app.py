@@ -4,12 +4,8 @@ import tweepy
 
 class TwitterPoster:
   def __init__(self):
-    consumer_key = "consumer_key"
-    consumer_secret = "consumer_secret"
-    access_token = "access_token"
-    access_token_secret = "access_token_secret"
-    auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
-    auth.set_access_token(access_token, access_token_secret)
+    auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
+    auth.set_access_token(ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
     self.api = tweepy.API(auth)
 
 api = TwitterPoster().api
