@@ -1,5 +1,5 @@
 # oeisTriangles
-Follow this Twitter bot [@oeisTriangles](https://twitter.com/oeisTriangles).
+Follow this Twitter bot [@oeisTriangles](https://twitter.com/oeisTriangles). Read about the ideas behind this bot on my blog post [Parity Bitmaps from the OEIS](https://blog.peterkagey.com/2021/03/parity-bitmaps-from-the-oeis/)
 
 [![Sequence A258993](https://user-images.githubusercontent.com/10198714/114285278-e824ac00-9a0a-11eb-95f1-023cb5fb34ac.png)](https://twitter.com/oeisTriangles/status/1379628962754686979?s=20)
 
