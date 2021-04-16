@@ -1,3 +1,4 @@
+from secrets import *
 from oeis_drawer import OEISDrawer
 from json_accountant import JSONAccountant
 import tweepy
